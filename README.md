@@ -13,12 +13,12 @@
 		
 <tr> 
 	<td>	
-	<p>Dec. 20, 2018</p>
-	<p>3 p.m.</p> 
+	Dec. 20, 2018<br>
+	3 p.m.
 	</td>
 <td>	C3.101 </td>
 <td>	Zenglin Shi </td>
-<td>	Normalization<br><a href="">slides</a> </td>
+<td>	Normalization<br><a href="">[slides]</a> </td>
 <td>	<p style="font-size:13px">Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).</p>
 <p style="font-size:13px"> Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.</p>
 <p style="font-size:13px">Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.</p>
