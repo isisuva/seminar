@@ -18,7 +18,7 @@
 	</td>
 <td>	C3.101 </td>
 <td>	Zenglin <br> Shi </td>
-<td>	Normalization<br><a href="slides/Normalization.pdf">[slides]</a> </td>
+<td>	Normalization<br><a target="_blank" href="slides/Normalization.pdf">[slides]</a> </td>
 <td>	<p style="font-size:13px">Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).</p>
 <p style="font-size:13px"> Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.</p>
 <p style="font-size:13px">Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.</p>
