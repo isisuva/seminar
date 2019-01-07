@@ -12,33 +12,31 @@
 	<tbody>
 		
 <tr> 
-	<td>	
+<td>	
 	Dec. 20, 2018<br>
 	3-4 p.m.
-	</td>
+</td>
 <td>	C3.101 </td>
 <td>	Zenglin <br> Shi </td>
 <td>	Normalization<br><a target="_blank" href="slides/Normalization.pdf">[slides]</a> </td>
 <td>	<p style="font-size:13px">Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).</p>
 <p style="font-size:13px"> Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.</p>
 <p style="font-size:13px">Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.</p>
- </td>
+ </td>	
 </tr>
-    
-    <tr> 
-			<td>	Dec. 20, 2018, 3 p.m. </td>
-			<td>	ETF-C106 </td>
-			<td>	Tianshu Hu </td>
-      <td>	Tianshu Hu </td>
-      <td>	<a href="/en/activities/cvl-seminar/detail/226/">Mixed-Supervised Domain Adaptive Semantic Segmentation</a>,<a href="">slides</a> </td>
-		</tr>
-    
-    <tr> 
-			<td>	Dec. 20, 2018, 3 p.m. </td>
-			<td>	ETF-C106 </td>
-			<td>	Tianshu Hu </td>
-      <td>	Tianshu Hu </td>
-      <td>	<a href="/en/activities/cvl-seminar/detail/226/">Mixed-Supervised Domain Adaptive Semantic Segmentation</a>,<a href="">slides</a> </td>
+   <!-- new -->
+<tr> 
+<td>	
+	Dec. 20, 2018<br>
+	3-4 p.m.
+</td>
+<td>	C3.101 </td>
+<td>	Zenglin <br> Shi </td>
+<td>	Normalization<br><a target="_blank" href="slides/Normalization.pdf">[slides]</a> </td>
+<td>	<p style="font-size:13px">Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).</p>
+<p style="font-size:13px"> Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.</p>
+<p style="font-size:13px">Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.</p>
+ </td>	
 </tr>
 		
 		
