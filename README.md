@@ -11,13 +11,15 @@
 	</thead>
 	<tbody>
 		
-		<tr> 
-			<td>	Dec. 20, 2018, 3 p.m. </td>
-			<td>	ETF-C106 </td>
-			<td>	Tianshu Hu </td>
-      <td>	Tianshu Hu </td>
-      <td>	<a href="/en/activities/cvl-seminar/detail/226/">Mixed-Supervised Domain Adaptive Semantic Segmentation</a>,<a href="">slides</a> </td>
-		</tr>
+<tr> 
+<td>	Dec. 20, 2018, 3 p.m. </td>
+<td>	ETF-C106 </td>
+<td>	Zenglin Shi </td>
+<td>	1. Faraz Saeedan, Nicolas Weber, Michael Goesele and Stefan Roth. Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).<br>
+2. Y-Lan BoureauA, Jean Ponce and Yann LeCun. Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.<br>
+3. ZenglinShi, YangdongYe and Yunpeng Wu. Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.<br>
+,<a href="">slides</a> </td>
+</tr>
     
     <tr> 
 			<td>	Dec. 20, 2018, 3 p.m. </td>
@@ -33,17 +35,12 @@
 			<td>	Tianshu Hu </td>
       <td>	Tianshu Hu </td>
       <td>	<a href="/en/activities/cvl-seminar/detail/226/">Mixed-Supervised Domain Adaptive Semantic Segmentation</a>,<a href="">slides</a> </td>
-		</tr>
+</tr>
 		
 		
 		
-	</tbody>
+</tbody>
 </table>
-
-
-
-
-#Paper-Reading-Seminar-ISIS-UvA
 
 #1. 
 Topic: Pooling Mechanism
