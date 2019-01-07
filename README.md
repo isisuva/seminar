@@ -12,13 +12,16 @@
 	<tbody>
 		
 <tr> 
-<td>	Dec. 20, 2018, 3 p.m. </td>
+	<td>	
+	<p>Dec. 20, 2018</p>
+	<p>3 p.m.</p> 
+	</td>
 <td>	C3.101 </td>
 <td>	Zenglin Shi </td>
-<td>	Normalization,<a href="">slides</a> </td>
-<td>	<p style="font-size:13px">1. Faraz Saeedan, Nicolas Weber, Michael Goesele and Stefan Roth. Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).</p>
-<p style="font-size:13px">2. Y-Lan BoureauA, Jean Ponce and Yann LeCun. Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.</p>
-<p style="font-size:13px">3. ZenglinShi, YangdongYe and Yunpeng Wu. Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.</p>
+<td>	Normalization<br><a href="">slides</a> </td>
+<td>	<p style="font-size:13px">Detail-Preserving Pooling in Deep Networks. CVPR, 2018 (Oral).</p>
+<p style="font-size:13px"> Theoretical Analysis of Feature Pooling in Visual Recognition. ICML, 2010.</p>
+<p style="font-size:13px">Rank-based pooling for deep convolutional neural networks. Neural Networks,2016.</p>
  </td>
 </tr>
     
